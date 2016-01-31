@@ -1,2 +1,2 @@
 # Data-Structure-And-Algo
-All Data Structure and Algorithm programs in java and c++
+This repo contains All Data Structure and Algorithm programs in java and c++
